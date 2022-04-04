@@ -1,1 +1,2 @@
-# trybe-front-end
+# Front-End
+Exercícios do bloco Front-End.
